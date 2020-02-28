@@ -2,7 +2,7 @@ The provided wheater generator
 ----------------------------------
 
 | File        | Description        
-| ------------- |:-------------:| 
+| ------------- |-------------| 
 | full_stations_data.dat      | Weather data for the generator. This file must reside in the same folder as the generator. | 
 | output.nl.hanze.roy.xml      | Example of an XML file that is sent by the generator. Contains explanation with of the elements.      |   
 | UnwdmiGenerator.exe | The wheater generator.      | 
