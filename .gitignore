@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+app.config
+target/
+.vscode
+*.bin
