@@ -1,4 +1,4 @@
-The provided wheater generator
+The provided weather generator
 ----------------------------------
 
 | File        | Description        
