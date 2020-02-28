@@ -1,4 +1,4 @@
-Unwdmi Weergegevens Generator 1.0b
+The provided wheater generator
 ----------------------------------
 
 File:                           Description:
